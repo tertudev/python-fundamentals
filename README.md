@@ -1,6 +1,7 @@
 # 🐍 Formação Python Fundamentos
 
 Fala pessoal! 👋  
+
 Resolvi montar **este README** enquanto eu estudo Python, pensando em você que também quer aprender a linguagem de um jeito simples, direto e sem complicação.
 
 Se você está começando agora ou quer reforçar a base, esse material aqui pode te ajudar bastante. Eu também estou aprendendo, então tudo foi escrito de um jeito bem claro, daquele jeito que a gente gostaria que explicassem pra gente quando estamos começando.
